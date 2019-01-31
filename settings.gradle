@@ -1,2 +1,2 @@
 rootProject.name = 'react'
-include 'config-server'
+include 'config-server', 'eureka-server'
