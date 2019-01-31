@@ -1,0 +1,8 @@
+zuul:
+  routes:
+    book-service:
+      serviceId: book-service
+      path: /api/v1/book/**
+    test-service:
+      serviceId: search-service
+      path: /api/v1/search/**
