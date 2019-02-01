@@ -19,6 +19,4 @@ spring:
       hibernate:
         format_sql: true
 
-name:
-  first: book1
-  second: book2
+signing.key: "345345fsdfsf5345"
